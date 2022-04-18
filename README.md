@@ -28,3 +28,5 @@ Made using Svelte.js, TailwindCSS and Firebase.
 - Run the following command in the terminal to install the required dependencies : <b>npm install</b>
 - Run the following command in the terminal to start the app : <b>npm run dev</b>
 - Run the following command in another terminal to build the css : <b> npx tailwindcss -i ./public/tailwind.css -o ./public/global.css --watch</b>
+
+<a href="https://cloud-chat-52a60.web.app/">Click here to view the deployed application</a>

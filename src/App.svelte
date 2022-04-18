@@ -8,12 +8,12 @@
 
 	// Your web app's Firebase configuration
 	const firebaseConfig = {
-		// apiKey: "",
-		// authDomain: "",
-		// projectId: "",
-		// storageBucket: "",
-		// messagingSenderId: "",
-		// appId: ""
+		apiKey: "AIzaSyAn8YfzltEBukcZgrPAuR9Vx7Cig2NSK8g",
+  		authDomain: "cloud-chat-52a60.firebaseapp.com",
+  		projectId: "cloud-chat-52a60",
+  		storageBucket: "cloud-chat-52a60.appspot.com",
+  		messagingSenderId: "854328703576",
+  		appId: "1:854328703576:web:a20874f6a25670da76a82d"
 	};
 
 	// Initialize Firebase
